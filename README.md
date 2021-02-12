@@ -1,6 +1,10 @@
-# Yo! Jean here, nice to meet you!
+<h1 align="center">Yo! I'm Jean Izepon</h1>
+<h3 align="center">
+Passionate about technology and design, here you will find my study and practice repository!</h3>
 
-Currently studying web development and seeking to improve my knowledge.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=izepon&label=Profile%20views&color=0e75b6&style=flat" alt="izepon" /> </p>
+
+Currently developing my knowledge in Web Development and Front End.
 
 ![Alt Text](https://i.pinimg.com/originals/bc/1c/5c/bc1c5caa5be55e8a602fd5ec390e8fd0.gif)
 
@@ -16,11 +20,7 @@ Currently studying web development and seeking to improve my knowledge.
 
 I'm from Brazil
 
-
-I really like design things, illustration, music "Rock n 'roll baby" and live well!
+I like to cook, listen to music "Rock n 'roll baby :D" and enjoy my free time playing and enjoying family and friends.
 
 [![izepon github stats](https://github-readme-stats.vercel.app/api?username=izepon)](https://github.com/izepon)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izepon&layout=compact)](https://github.com/izepon)
-
-
-
