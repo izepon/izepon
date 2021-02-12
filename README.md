@@ -2,7 +2,7 @@
 <h3 align="center">
 Passionate about technology and design, here you will find my study and practice repository!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izepon&label=Profile%20views&color=0e75b6&style=flat" alt="izepon" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=izepon&label=Profile%20views&color=0e75b6&style=flat" alt="izepon" /> </p>
 
 Currently developing my knowledge in Web Development and Front End.
 
