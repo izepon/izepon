@@ -23,7 +23,7 @@
 
 I'm from Brazil
 
-I like to cook, listen to music "Rock n 'roll baby :D" and enjoy my free time playing and enjoying family and friends.
+I like to cook, listen to music "Rock n 'roll baby :D" and enjoy my free time playing games and enjoying family and friends.
 
 [![izepon github stats](https://github-readme-stats.vercel.app/api?username=izepon)](https://github.com/izepon)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izepon&layout=compact)](https://github.com/izepon)
