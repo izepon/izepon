@@ -1,7 +1,7 @@
 <h1 align="left">Yo! I'm Jean Izepon</h1>
 <h3 align="left">Passionate about technology and design, here you will find my study and practice repository!</h3>
 
-<h3 align="left">Currently developing my knowledge in Web Development and Front End.</h3>
+<h3 align="left">Currently developing my knowledge in Development and Front End.</h3>
 
 ![Alt Text](https://i.pinimg.com/originals/bc/1c/5c/bc1c5caa5be55e8a602fd5ec390e8fd0.gif)
 
