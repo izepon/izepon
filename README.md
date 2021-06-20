@@ -26,7 +26,7 @@ I like to cook, listen to music "Rock n 'roll baby :D" and enjoy my free time pl
 [![izepon github stats](https://github-readme-stats.vercel.app/api?username=izepon)](https://github.com/izepon)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izepon&layout=compact)](https://github.com/izepon)
 
-![Snake animation](https://github.com/rafaballerini/izepon/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/izepon/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 
 
