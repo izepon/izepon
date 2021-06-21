@@ -56,7 +56,7 @@ Sou entusiasta de tecnologia e equipamentos eletrônicos desde muito novo, entã
   <!-- Node Icon -->
   <img src="https://github.com/izepon/izepon/blob/master/imagens/nodejs.png?raw=true">&nbsp;
 </p>
-![Snake animation](https://github.com/izepon/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/izepon/izepon/blob/output/github-contribution-grid-snake.svg)
 <table align='left'>
   <row>
     <td>
