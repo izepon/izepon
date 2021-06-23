@@ -54,7 +54,7 @@ Sou entusiasta de tecnologia e sempre tive curiosidade para saber como tudo func
   <img src="https://github.com/izepon/izepon/blob/master/imagens/nodejs.png?raw=true">&nbsp;
 </p>
 
-![Snake animation](https://github.com/izepon/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/izepon/izepon/blob/output/github-contribution-grid-snake.svg)
 
 <table align='left'>
   <row>
@@ -67,3 +67,5 @@ Sou entusiasta de tecnologia e sempre tive curiosidade para saber como tudo func
     </td>    
   </row>  
 </table>
+
+
