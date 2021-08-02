@@ -60,10 +60,10 @@ Sou entusiasta de tecnologia e sempre tive curiosidade para saber como tudo func
   <row>
     <td>
      <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=izepon&layout=compact&theme=dark'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=izepon&layout=compact&theme=dracula'>
     </td>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=izepon&show_icons=true&theme=dark'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=izepon&show_icons=true&theme=dracula'>
     </td>    
   </row>  
 </table>
