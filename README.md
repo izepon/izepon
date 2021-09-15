@@ -23,7 +23,8 @@
 <br>
 
 <h4 align="left"> 
-Sou entusiasta de tecnologia e sempre tive curiosidade para saber como tudo funcionava, desmontando equipamentos eletronicos e abrindo computadores antigos, foi então que decidi estudar e graduar na área de Tecnologia da Informação. Em minha caminhada como profissional em T.I. pude trabalhar com infra estrutura nível 1 e 2 em servidores e hardware empresarial, porém em 2018/2019 decidi migrar para área de desenvolvimento e é onde estou atuando hoje. Minha maior competência é com front-end, mas não me limito a esse caminho, tenho me desenvolvido muito dentro do back-end com controle de dados, gestão de micro serviços e integração de sistemas.	
+Sou entusiasta de tecnologia e equipamentos eletrônicos desde muito novo, então decidi estudar como as coisas funcionam por trás das hardware e software. Em minha caminhada como profissional de T.I. pude trabalhar com infra estrutura nível 1 e 2 de servidores e hardware empresarial, porém em 2018/2019 decidi migrar para área de desenvolvimento e é onde estou atuando hoje como Desenvolvedor Jr.
+Minha maior competência é com frontend onde venho aprimorando meus conhecimentos com JavaScript, React, acessibilidade e responsividade. Além disso tenho conhecimento com o backend de aplicações em JAVA, com controle de dados, desenvolvimento de micro serviços (Web Methods), integração de sistemas e API's REST.	
 </h4>
 
 
