@@ -26,7 +26,7 @@
 <p align="left"> 
 Desenvolvedor de software entusiasta em design e experiência do usuário.
 
-Experiência: Atuo a mais de seis anos na área de tecnologia, passando por experiências com suporte nível 1 e 2 até infraestrutura de servidores em clientes remotos e presencial. Hoje atuo como desenvolvimento de software focado em integração de sistema com base em Java e Web Methods, conectividades API Rest e FTP/SFTP. 
+Experiência: Atuo a mais de seis anos na área de tecnologia, passando por experiências com suporte nível 1 e 2 até infraestrutura de servidores em clientes remotos e presencial. Hoje atuo como desenvolvedor de software focado em integração de sistema com base em Java e Web Methods, conectividades API Rest e FTP/SFTP. 
 
 Stack tecnológica: HTML, CSS, JavaScript, ReactJS, versionamento Git e GitHub, SQL, Java e Web Methods.
 </p>
