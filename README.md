@@ -1,10 +1,10 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=izepon&repo=izepon&countColorcountColor)
 
-<img align="right" src="https://i.pinimg.com/originals/bc/1c/5c/bc1c5caa5be55e8a602fd5ec390e8fd0.gif" width="400"/>
+<h1 align="left">Jean Carlos Izepon</h1>
 
-<h1 align="center">Jean Carlos Izepon</h1>
+<img src="https://i.pinimg.com/originals/bc/1c/5c/bc1c5caa5be55e8a602fd5ec390e8fd0.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/izepon/">
     <img alt="Siga no Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/izepon/">
   </a>
@@ -20,15 +20,19 @@
     <img alt="Siga no LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-izepon/">
   </a>
 </p>
+
 <br>
 
-<h4 align="left"> 
-Sou entusiasta de tecnologia e equipamentos eletrônicos desde muito novo, então decidi estudar como as coisas funcionam por trás das hardware e software. Em minha caminhada como profissional de T.I. pude trabalhar com infra estrutura nível 1 e 2 de servidores e hardware empresarial, porém em 2018/2019 decidi migrar para área de desenvolvimento e é onde estou atuando hoje como Desenvolvedor Jr.
-Minha maior competência é com frontend onde venho aprimorando meus conhecimentos com JavaScript, React, acessibilidade e responsividade. Além disso tenho conhecimento com o backend de aplicações em JAVA, com controle de dados, desenvolvimento de micro serviços (Web Methods), integração de sistemas e API's REST.	
-</h4>
+<p align="left"> 
+Desenvolvedor de software entusiasta em design e experiência do usuário.
+
+Experiência: Atuo a mais de seis anos na área de tecnologia, passando por experiências com suporte nível 1 e 2 até infraestrutura de servidores em clientes remotos e presencial. Hoje atuo como desenvolvimento de software focado em integração de sistema com base em Java e Web Methods, conectividades API Rest e FTP/SFTP. 
+
+Stack tecnológica: HTML, CSS, JavaScript, ReactJS, versionamento Git e GitHub, SQL, Java e Web Methods.
+</p>
 
 
-#### Tecnologias que estou estudando/aprimorando:
+### Tecnologias que estou estudando/aprimorando:
 
 <p align="left">
   <!-- HTML Icon -->
@@ -42,20 +46,12 @@ Minha maior competência é com frontend onde venho aprimorando meus conheciment
   <!-- React Icon -->
   <img src="https://github.com/izepon/izepon/blob/master/imagens/react.png?raw=true">&nbsp;
   <!-- Git Icon -->
-  <img src="https://github.com/izepon/izepon/blob/master/imagens/git.png?raw=true">&nbsp;  
-</p>
-
-
-**Interesse:**
-
-<p align="left">
+  <img src="https://github.com/izepon/izepon/blob/master/imagens/git.png?raw=true">&nbsp;
   <!-- Next.JS Icon -->
   <img src="https://github.com/izepon/izepon/blob/master/imagens/nextJS.png?raw=true">&nbsp;
   <!-- Node Icon -->
   <img src="https://github.com/izepon/izepon/blob/master/imagens/nodejs.png?raw=true">&nbsp;
 </p>
-
-![Snake animation](https://github.com/izepon/izepon/blob/output/github-contribution-grid-snake.svg)
 
 <table align='left'>
   <row>
@@ -69,4 +65,5 @@ Minha maior competência é com frontend onde venho aprimorando meus conheciment
   </row>  
 </table>
 
+![Snake animation](https://github.com/izepon/izepon/blob/output/github-contribution-grid-snake.svg)
 
