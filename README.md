@@ -26,7 +26,7 @@
 <p align="left"> 
 Desenvolvedor de software entusiasta em design e experiência do usuário.
 
-Sou um profissional com ampla experiência na área de tecnologia, passando por áreas de sustentação/suporte nível 1 e 2 , infraestrutura de servidores em clientes remotos e presencial, e hoje atuo como desenvolvedor full stack. 
+Sou um profissional com ampla experiência na área da tecnologia, passando por áreas de sustentação/suporte nível 1 e 2 , infraestrutura de servidores em clientes remotos e presencial, e hoje atuo como desenvolvedor full stack. 
 
 Stack tecnológica: HTML, CSS, JavaScript, ReactJS, versionamento Git e GitHub, SQL, Java e Web Methods.
 </p>
