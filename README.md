@@ -28,7 +28,7 @@ Desenvolvedor de software entusiasta em design e experiência do usuário.
 
 Sou um profissional com ampla experiência na área da tecnologia, passando por áreas de sustentação/suporte nível 1 e 2 , infraestrutura de servidores em clientes remotos e presencial, e hoje atuo como desenvolvedor full stack. 
 
-Stack tecnológica: HTML, CSS, JavaScript, ReactJS, versionamento Git e GitHub, SQL, Java (JSF e Spring) e Web Methods.
+Stack tecnológica: HTML, CSS, JavaScript, ReactJS, Angular, versionamento Git e GitHub, SQL, Java (JSF e Spring) e Web Methods.
 </p>
 
 
