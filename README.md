@@ -1,69 +1,81 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=izepon&repo=izepon&countColorcountColor)
 
-<h1 align="left">Jean Carlos Izepon</h1>
+###
 
-<img src="https://i.pinimg.com/originals/bc/1c/5c/bc1c5caa5be55e8a602fd5ec390e8fd0.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<img align="right" height="400" src="https://x-team.com/static/radio-c55da1677fe1e4afc3322ad88ce6bdaa.gif"  />
 
-<p align="left">
-  <a href="https://twitter.com/izepon/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/izepon/">
+###
+
+<h1 align="left">Hello World👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Jean Carlos Izepon, <br>I'm a FullStack Web Developer, graduated in Information Technology Management. <br>Currently learning iOS mobile development.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ FullStack Web Developer<br>📚 I'm currently learning Swift, iOS Mobile native.<br>🎲 Fun fact: I like to cook and play video games and board games.</p>
+
+###
+
+<h2 align="left">Social</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jean-izepon/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-
-  <a href="https://www.facebook.com/izeponjc/" alt="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-4169E1?style=flat-square&labelColor=4169E1&logo=facebook&logoColor=white&link=https://www.facebook.com/izeponjc/"/>
+  <a href="https://twitter.com/izepon/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  
-   <a href="https://www.instagram.com/izepon/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/izepon/"/>   </a>
- 
- <a href="https://www.linkedin.com/in/jean-izepon/">
-    <img alt="Siga no LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-izepon/">
+  <a href="https://www.instagram.com/izepon/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</p>
+</div>
 
-<br>
+###
 
-<p align="left"> 
-Desenvolvedor de software entusiasta em design e experiência do usuário.
+<h2 align="left">I code with</h2>
 
-Sou um profissional com ampla experiência na área da tecnologia, passando por áreas de sustentação/suporte nível 1 e 2 , infraestrutura de servidores em clientes remotos e presencial, e hoje atuo como desenvolvedor full stack. 
+###
 
-Stack tecnológica: HTML, CSS, JavaScript, ReactJS, Angular, versionamento Git e GitHub, SQL, Java (JSF e Spring) e Web Methods.
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+</div>
 
+###
 
-### Tecnologias que estou estudando/aprimorando:
+<h2 align="left">I'm learning</h2>
 
-<p align="left">
-  <!-- HTML Icon -->
-  <img src="https://github.com/izepon/izepon/blob/master/imagens/html.png?raw=true">&nbsp;
-  <!-- CSS Icon -->
-  <img src="https://github.com/izepon/izepon/blob/master/imagens/css.png?raw=true">&nbsp;
-  <!-- JS Icon -->
-  <img src="https://github.com/izepon/izepon/blob/master/imagens/js.png?raw=true">&nbsp;
-  <!-- TS Icon -->
-  <img src="https://github.com/izepon/izepon/blob/master/imagens/ts.png?raw=true">&nbsp;
-  <!-- React Icon -->
-  <img src="https://github.com/izepon/izepon/blob/master/imagens/react.png?raw=true">&nbsp;
-  <!-- Git Icon -->
-  <img src="https://github.com/izepon/izepon/blob/master/imagens/git.png?raw=true">&nbsp;
-  <!-- Next.JS Icon -->
-  <img src="https://github.com/izepon/izepon/blob/master/imagens/nextJS.png?raw=true">&nbsp;
-  <!-- Node Icon -->
-  <img src="https://github.com/izepon/izepon/blob/master/imagens/nodejs.png?raw=true">&nbsp;
-</p>
+###
 
-<table align='left'>
-  <row>
-    <td>
-     <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=izepon&layout=compact&theme=dracula'>
-    </td>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=izepon&show_icons=true&theme=dracula'>
-    </td>    
-  </row>  
-</table>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" width="52" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" width="52" alt="apple logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=izepon" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&username=izepon" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ![Snake animation](https://github.com/izepon/izepon/blob/output/github-contribution-grid-snake.svg)
 
+---------------------
