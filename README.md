@@ -1,4 +1,4 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=izepon&repo=izepon&countColorcountColor)
+[![](https://visitcount.itsvg.in/api?id=izepon&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ###
 
@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">My name is Jean Carlos Izepon, <br>I'm a FullStack Web Developer, graduated in Information Technology Management. <br>Currently learning iOS mobile development.</p>
+<p align="left">My name is Jean Carlos Izepon, <br>
+  I'm a FullStack Web Developer, graduated in Information Technology Management. <br>
+  Currently learning iOS mobile development.</p>
 
 ###
 
