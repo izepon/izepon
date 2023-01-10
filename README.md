@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ FullStack Web Developer<br>📚 I'm currently learning Swift, iOS Mobile native.<br>🎲 Fun fact: I like to cook and play video games and board games.</p>
+<p align="left">✨ FullStack Web Developer<br>📚 I'm currently learn more about FullStack developer.<br>🎲 Fun fact: I like to cook and play video games and board games.</p>
 
 ###
 
