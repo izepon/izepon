@@ -12,7 +12,7 @@
 
 <p align="left">My name is Jean Carlos Izepon, <br>
   I'm a FullStack Web Developer, graduated in Information Technology Management. <br>
-  Currently learning Java development.</p>
+  I am currently learning more about Java Backend Architecture</p>
 
 ###
 
